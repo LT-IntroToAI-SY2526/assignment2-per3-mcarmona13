@@ -15,6 +15,5 @@ This assignment is about learning and applying the while loop and iterating thro
 
 
 
-2. Explain how you could use the match function for extracting information from a movie database.
 
 
